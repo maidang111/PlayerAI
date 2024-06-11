@@ -1,0 +1,6 @@
+{
+    "Stamina": 50,
+    "Hunger": 50,
+    "Gain_Stamina": false,
+    "Visited": []
+}
